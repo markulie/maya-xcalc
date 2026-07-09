@@ -8,7 +8,7 @@ Calculator for Maya
 
 Simple Calculator for Autodesk Maya
 
-<img width="126" src="https://github.com/markulie/xCalc/blob/master/demo_xCalc_Maya.png?raw=true">
+<img width="126" src="demo_xCalc_Maya.png">
 
 
 ### To Use The MEL Version
